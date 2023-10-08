@@ -1,0 +1,7 @@
+body {
+    background-color: rgb(241, 241, 209);
+    text-align: center;
+}
+td {
+    border: 2px groove blueviolet;
+}
